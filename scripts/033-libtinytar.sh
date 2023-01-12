@@ -1,5 +1,4 @@
 #!/bin/sh -e
-#
 # tar/tar.gz/tar.bz2 library by Bucanero
 
 ## Download the source code.
