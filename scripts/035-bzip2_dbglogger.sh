@@ -11,4 +11,3 @@ rm -Rf psl1ght-libs && mkdir psl1ght-libs && tar --strip-components=1 --director
 
 ## Compile and install.
 ${MAKE:-make} --directory=bzip2 install
-${MAKE:-make} --directory=dbglogger install
