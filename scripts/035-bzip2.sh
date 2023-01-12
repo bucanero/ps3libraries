@@ -1,7 +1,5 @@
 #!/bin/sh -e
-#
 # bzip2 by cadcdev
-# dbglogger by Bucanero
 
 ## Download the source code.
 wget --no-check-certificate https://github.com/bucanero/psl1ght-libs/tarball/master -O psl1ght-libs.tar.gz 

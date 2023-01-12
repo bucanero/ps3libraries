@@ -1,5 +1,4 @@
 #!/bin/sh -e
-#
 # ya2d_ps3 by xerpi
 #	fork by Bucanero
 

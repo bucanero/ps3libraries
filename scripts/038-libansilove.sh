@@ -1,5 +1,4 @@
 #!/bin/sh -e
-#
 # libansilove by Stefan Vogt, Brian Cassidy, and Frederic Cambus
 #   ported to PS3 by Bucanero
 

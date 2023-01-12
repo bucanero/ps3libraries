@@ -1,5 +1,4 @@
 #!/bin/sh -e
-#
 # libsmb2 by sahlberg
 #	ported to PS3 by Bucanero
 
