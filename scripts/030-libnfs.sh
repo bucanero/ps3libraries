@@ -1,4 +1,5 @@
 #!/bin/sh -e
+#
 # libnfs by sahlberg
 #	ported to PS3 by Bucanero
 
