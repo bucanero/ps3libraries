@@ -1,4 +1,5 @@
 #!/bin/sh -e
+#
 # unRAR library ported to PS3 by Bucanero
 
 ## Download the source code.
