@@ -1,4 +1,5 @@
 #!/bin/sh -e
+#
 # un7Zip library by Bucanero
 
 ## Download the source code.
