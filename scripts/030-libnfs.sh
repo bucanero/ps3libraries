@@ -14,8 +14,3 @@ rm -Rf libnfs && mkdir libnfs && tar --strip-components=1 --directory=libnfs -xv
 
 ## Compile and install.
 ${MAKE:-make} -f ps3_ppu/Makefile.PS3_PPU install
-
-
-owner=sahlberg
-repo=libnfs
-wget -qO- "https://api.github.com/repos/${owner}/${repo}/releases/latest"
