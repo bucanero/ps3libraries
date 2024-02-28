@@ -3,7 +3,7 @@
 #   ported to PS3 by Bucanero
 
 ## Download the source code.
-wget --no-check-certificate https://github.com/bucanero/libansilove/tarball/master -O libansilove.tar.gz 
+wget https://github.com/bucanero/libansilove/tarball/master -O libansilove.tar.gz 
 
 ## Unpack the source code.
 rm -Rf libansilove && mkdir libansilove && tar --strip-components=1 --directory=libansilove -xvzf libansilove.tar.gz && cd libansilove

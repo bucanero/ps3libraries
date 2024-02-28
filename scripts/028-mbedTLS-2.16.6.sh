@@ -34,7 +34,7 @@ ARCH="powerpc64"
 PLATFORM="PS3"
 
 ## Download the source code.
-wget --continue --no-check-certificate -O mbedtls-${VERSION}.gpl.tgz http://downloads.arednmesh.org/sources/mbedtls-${VERSION}-gpl.tgz
+wget -O mbedtls-${VERSION}.gpl.tgz http://downloads.arednmesh.org/sources/mbedtls-${VERSION}-gpl.tgz
 
 ## Unpack the source code.
 rm -Rf mbedtls-${VERSION} && tar xfvz mbedtls-${VERSION}.gpl.tgz && cd mbedtls-${VERSION}

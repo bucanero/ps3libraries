@@ -32,7 +32,7 @@ ARCH="powerpc64"
 PLATFORM="PS3"
 
 ## Download the source code.
-wget --continue --no-check-certificate -O polarssl-${VERSION}.gpl.tgz https://src.fedoraproject.org/repo/pkgs/polarssl/polarssl-1.3.9-gpl.tgz/48af7d1f0d5de512cbd6dacf5407884c/polarssl-${VERSION}-gpl.tgz
+wget -O polarssl-${VERSION}.gpl.tgz https://src.fedoraproject.org/repo/pkgs/polarssl/polarssl-1.3.9-gpl.tgz/48af7d1f0d5de512cbd6dacf5407884c/polarssl-${VERSION}-gpl.tgz
 
 ## Unpack the source code.
 rm -Rf polarssl-${VERSION} && tar xfvz polarssl-${VERSION}.gpl.tgz && cd polarssl-${VERSION}
