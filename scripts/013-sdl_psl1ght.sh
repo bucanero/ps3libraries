@@ -4,8 +4,6 @@
 ## Download the source code.
 # SDL1
 wget https://github.com/zeldin/SDL_PSL1GHT/tarball/master -O sdl_psl1ght.tar.gz
-# SDL2
-# wget https://github.com/humbertodias/SDL2_PSL1GHT/tarball/master -O sdl_psl1ght.tar.gz
 
 ## Unpack the source code.
 rm -Rf sdl_psl1ght && mkdir sdl_psl1ght && tar --strip-components=1 --directory=sdl_psl1ght -xvzf sdl_psl1ght.tar.gz
