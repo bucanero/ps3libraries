@@ -16,7 +16,6 @@ of homebrew software for the Sony Playstation 3 videogame system.
 - ps3toolchain
 - psl1ght-sdl1
 - wget
-- pthread-emb
 
 2. Run the library script:
 
